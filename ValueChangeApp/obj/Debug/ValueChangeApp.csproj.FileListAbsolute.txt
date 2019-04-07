@@ -1,0 +1,7 @@
+D:\TestProjects\ValueChangeApp\ValueChangeApp\bin\Debug\ValueChangeApp.exe.config
+D:\TestProjects\ValueChangeApp\ValueChangeApp\bin\Debug\ValueChangeApp.exe
+D:\TestProjects\ValueChangeApp\ValueChangeApp\bin\Debug\ValueChangeApp.pdb
+D:\TestProjects\ValueChangeApp\ValueChangeApp\obj\Debug\ValueChangeApp.csprojAssemblyReference.cache
+D:\TestProjects\ValueChangeApp\ValueChangeApp\obj\Debug\ValueChangeApp.csproj.CoreCompileInputs.cache
+D:\TestProjects\ValueChangeApp\ValueChangeApp\obj\Debug\ValueChangeApp.exe
+D:\TestProjects\ValueChangeApp\ValueChangeApp\obj\Debug\ValueChangeApp.pdb
